@@ -20,7 +20,7 @@
 
 - &#x2612; Homework 09 : [A/B Testing](https://github.com/theptat002/BADS7105-CRM-Analytics-and-Intelligence/tree/main/Homework%2009)
 
-- &#x2612; Homework 10 : [Customer Movement Analysis](https://github.com/theptat002/BADS7105-CRM-Analytics-and-Intelligence/tree/main/Homework%2010)
+- &#x2611; Homework 10 : [Customer Movement Analysis](https://github.com/theptat002/BADS7105-CRM-Analytics-and-Intelligence/tree/main/Homework%2010)
 
 - &#x2612; Homework 11 : [Voice of Customers](https://github.com/theptat002/BADS7105-CRM-Analytics-and-Intelligence/tree/main/Homework%2011)
 
