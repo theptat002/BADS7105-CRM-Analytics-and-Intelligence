@@ -8,8 +8,15 @@ Data : excel file from questionnaire with gooogle form
 
 ### <ins>Explore</ins>
 
-  
+<ins>Supporters</ins>
 
 <p align="center">
  <img  src="./Overall ratio support.png">
 </p>
+
+<ins>Supporters</ins>
+
+<p align="center">
+ <img  src="./Overall ratio hater.png">
+</p>
+
