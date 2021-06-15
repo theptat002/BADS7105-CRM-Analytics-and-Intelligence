@@ -14,9 +14,29 @@ Data : excel file from questionnaire with gooogle form
  <img  src="./Overall ratio support.png">
 </p>
 
-<ins>Supporters</ins>
+<ins>Frequency of Supporters x Hate </ins>
 
 <p align="center">
  <img  src="./Overall ratio hater.png">
 </p>
 
+### <ins>Hypothesis test </ins>
+#### Test the fans of each team dislike the other teams differently?
+
+\>>> Chisquare test <<<  
+
+* Arsenal
+
+<p align="center">
+ <img  src="./Overall hate by Arsenal.png">
+</p>
+
+
+
+
+
+ref :
+
+<url>www.soccersuck.com</url>
+
+<url>https://towardsdatascience.com/a-b-testing-with-chi-squared-test-to-maximize-conversions-and-ctrs-6599271a2c31</url>
