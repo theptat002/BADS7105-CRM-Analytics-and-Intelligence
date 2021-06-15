@@ -1,31 +1,54 @@
-Flow
+## **Campaign Response Model**
 
-data -> pure/cutoff -> Handle Imbalance -> Feature selection method -> machine learning method -> tune hyperparameter method -> summary
+BADS7105 : CRM Analytics and Intelligence | Homework 8
 
-data 
-  - ไม่ตัด Period ออก
-  - ตัด Period เก่าๆออก
+Topic : Campaign Response Model
 
-handle imbal
-  - Over
-  - Down
-  - Smote
+Data : Retail Data
 
-Feature Sel
-  - Feature Important from random forest
-  - Regularization
-  - Use all
+From AJ.Thanachart Result 
 
-Machine
-  - Logistics Regression
-  - XGboost
-  - Random forest
+<p align="center">
+ <img  src="./result_Teacher.png">
+</p>
 
-model tuning
-  - hyper parameter
-  - nothing
+Ground truth -> UnderSampling / XGboost / Tune Parameter at Train Accuaracy 74% and Test accuracy 64%
 
-2*3*3*3*2
+### <ins> Cut Period Data </ins>
 
+- All period
+- last 2 year
+- last 3 year
 
-\## นำเสนอในแบบของเราเองก่อน แล้วค่อยไปเปรียบเทียบกับของอาจารย์อีกที
+### <ins> Create Feature </ins>
+
+- RFM only
+- RFM + Time 2 Event
+- Create new feature also have 50 features
+
+### <ins> Feature selection </ins>
+
+- Lasso 
+<url>https://towardsdatascience.com/feature-selection-using-regularisation-a3678b71e499</url>
+
+- Important from Random Forest
+<url>https://towardsdatascience.com/feature-selection-using-random-forest-26d7b747597f</url>
+
+- none
+
+### <ins> Imbalance Handle </ins>
+
+- OverSampling , UnderSampling , Smote
+
+### <ins> Machine Learning </ins>
+
+- Logistic Regression
+- Logistic Regression with RandomSearch
+- XGboost 
+- XGboost with RandomSearch
+
+all combination of data / feature / feature selection / imbalance handle / machine learning -> 180 model from that.
+
+<p align="center">
+ <img  src="./result_mytest.JPG">
+</p>
