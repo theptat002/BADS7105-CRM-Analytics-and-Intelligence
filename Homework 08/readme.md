@@ -49,6 +49,8 @@ Ground truth -> UnderSampling / XGboost / Tune Parameter at Train Accuaracy 74% 
 
 all combination of data / feature / feature selection / imbalance handle / machine learning -> 180 model from that.
 
+### <ins> Result & Evaluate </ins>
+
 <p align="center">
  <img  src="./result_mytest.JPG">
 </p>
