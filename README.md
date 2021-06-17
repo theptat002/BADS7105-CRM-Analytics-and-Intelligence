@@ -24,4 +24,4 @@
 
 - &#x2612; Homework 11 : [Voice of Customers](https://github.com/theptat002/BADS7105-CRM-Analytics-and-Intelligence/tree/main/Homework%2011)
 
-- &#x2612; Homework 12 : [Design Thinking](https://github.com/theptat002/BADS7105-CRM-Analytics-and-Intelligence/tree/main/Homework%2012)
+- &#x2611; Homework 12 : [Design Thinking](https://github.com/theptat002/BADS7105-CRM-Analytics-and-Intelligence/tree/main/Homework%2012)
