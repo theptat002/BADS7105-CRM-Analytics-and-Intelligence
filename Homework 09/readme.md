@@ -1,4 +1,7 @@
 ## **A/B Testing**
+<p align="center">
+ <img  width="750" height="345" src="./BIG6_EPL.jpg">
+</p>
 
 BADS7105 : CRM Analytics and Intelligence | Homework 9
 
