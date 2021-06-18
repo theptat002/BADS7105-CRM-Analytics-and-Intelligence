@@ -14,7 +14,7 @@
 
 - &#x2611; Homework 06 : [Customer Segmentation](https://github.com/theptat002/BADS7105-CRM-Analytics-and-Intelligence/tree/main/Homework%2006)
 
-- &#x2612; Homework 07 : [Product Recommendation](https://github.com/theptat002/BADS7105-CRM-Analytics-and-Intelligence/tree/main/Homework%2007)
+- &#x2611; Homework 07 : [Product Recommendation](https://github.com/theptat002/BADS7105-CRM-Analytics-and-Intelligence/tree/main/Homework%2007)
 
 - &#x2611; Homework 08 : [Campaign Response Model](https://github.com/theptat002/BADS7105-CRM-Analytics-and-Intelligence/tree/main/Homework%2008)
 
