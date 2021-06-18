@@ -27,9 +27,21 @@ Data : Customer Preference Survey.xlsx
 
 LIFT ->  lift ratio is the ratio of confidence to expected confidence. Expected confidence is the confidence divided by the frequency of B. The Lift tells us how much better a rule is at predicting the result than just assuming the result in the first place. Greater lift values indicate stronger associations.
 
+<p>
+ <img   src="./lift_formula.JPG">
+</p>
+
 SUPPORT -> the number of transactions that include items in the {A} and {B} parts of the rule as a percentage of the total number of transactions. It is a measure of how frequently the collection of items occur together as a percentage of all transactions.
 
+<p>
+ <img   src="./support_formula.JPG">
+</p>
+
 CONFIDENCE -> the confidence of the rule is the ratio of the number of transactions that include all items in {B} as well as the number of transactions that include all items in {A} to the number of transactions that include all items in {A}.
+
+<p>
+ <img   src="./confidence_formula.JPG">
+</p>
 
 ref : <url>https://infocenter.informationbuilders.com/wf80/index.jsp?topic=%2Fpubdocs%2FRStat16%2Fsource%2Ftopic49.htm</url>
 
