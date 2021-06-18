@@ -1,6 +1,6 @@
 ## **Voice Analysis**
 <p align="center">
- <img  width="750" height="345" src="./shabu-vector-35579589.jpg">
+ <img  width="500" height="300" src="./shabu-vector-35579589.jpg">
 </p>
 
 BADS7105 : CRM Analytics and Intelligence | Homework 9
@@ -14,5 +14,5 @@ Data : CustomerReviews.csv
 <ins>Supporters</ins>
 
 <p align="center">
- <img  src="./lot_easy.png">
+ <img  src="./plot_easy.png">
 </p>
