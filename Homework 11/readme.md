@@ -11,8 +11,20 @@ Data : CustomerReviews.csv
 
 ### <ins>Explore</ins>
 
-<ins>Supporters</ins>
+<ins>Rating of each merchant</ins>
 
-<p align="center">
- <img  src="./plot_easy.png">
+<p >
+ <img  src="./Plot_easy.png">
+</p>
+
+<ins>important word in review</ins>
+
+<p >
+ <img  src="./HM10_VOICE.png">
+</p>
+
+### <ins>Label review comment</ins>
+
+<p >
+ <img  src="./label_review.JPG">
 </p>
