@@ -6,6 +6,10 @@ Topic : Customer Movement
 
 Data : Supermarket
 
+<p align="center">
+ <img  src="./table_movement.png">
+</p>
+
 Big Query SQL :
 
 ```diff
