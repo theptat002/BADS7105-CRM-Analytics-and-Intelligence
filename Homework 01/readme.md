@@ -71,3 +71,4 @@ Data : complete_data.xlsx
 <p>
  <img   src="./HW1_CLUSTER_FREQ_G4_THAI_YOUTUBE.JPG">
 </p>
+[Colab this part](https://github.com/theptat002/BADS7105-CRM-Analytics-and-Intelligence/blob/main/Homework%2001/BADS7105_Homework_01_PART03_Analysis.ipynb)
