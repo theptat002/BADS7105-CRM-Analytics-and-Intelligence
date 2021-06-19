@@ -10,7 +10,7 @@
 
 - &#x2611; Homework 04 : [Customer Journey](https://github.com/theptat002/BADS7105-CRM-Analytics-and-Intelligence/tree/main/Homework%2004)
 
-- &#x2612; Homework 05 : [CLV Dashboard](https://github.com/theptat002/BADS7105-CRM-Analytics-and-Intelligence/tree/main/Homework%2005)
+- &#x2611; Homework 05 : [CLV Dashboard](https://github.com/theptat002/BADS7105-CRM-Analytics-and-Intelligence/tree/main/Homework%2005)
 
 - &#x2611; Homework 06 : [Customer Segmentation](https://github.com/theptat002/BADS7105-CRM-Analytics-and-Intelligence/tree/main/Homework%2006)
 
@@ -22,6 +22,6 @@
 
 - &#x2611; Homework 10 : [Customer Movement Analysis](https://github.com/theptat002/BADS7105-CRM-Analytics-and-Intelligence/tree/main/Homework%2010)
 
-- &#x2612; Homework 11 : [Voice of Customers](https://github.com/theptat002/BADS7105-CRM-Analytics-and-Intelligence/tree/main/Homework%2011)
+- &#x2611; Homework 11 : [Voice of Customers](https://github.com/theptat002/BADS7105-CRM-Analytics-and-Intelligence/tree/main/Homework%2011)
 
 - &#x2611; Homework 12 : [Design Thinking](https://github.com/theptat002/BADS7105-CRM-Analytics-and-Intelligence/tree/main/Homework%2012)
