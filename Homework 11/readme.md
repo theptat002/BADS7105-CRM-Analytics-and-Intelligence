@@ -23,7 +23,13 @@ Data : CustomerReviews.csv
  <img  src="./HM10_VOICE.png">
 </p>
 
-### <ins>Label review comment</ins>
+### <ins>Flow Process</ins>
+
+<p >
+ <img  src="./Flow Process.JPG">
+</p>
+
+#### <ins>Label review comment</ins>
 
 <p >
  <img  src="./label_review.JPG">
