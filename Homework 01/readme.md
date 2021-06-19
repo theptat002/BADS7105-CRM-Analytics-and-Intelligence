@@ -6,6 +6,12 @@ Topic : Analysis of Customer Behaviors
 
 Data : complete_data.xlsx
 
+### <ins> CONVERT DATA </ins>
+
+<p >
+ <img  src="./HW1_CONVERT_TO_SCORE.JPG">
+</p>
+
 ### <ins> MISSING DATA </ins>
 
 - Unknown Gender : Impute Gender with Random Forest 
@@ -32,4 +38,36 @@ Data : complete_data.xlsx
 
 <p>
  <img  width="460" height="300" src="./heat_map_interest.png">
+</p>
+
+### <ins> CLUSTERING FREQ </ins>
+
+- Elbow
+
+<p>
+ <img   src="./HW_CLUSTER_FREQ.JPG">
+</p>
+
+- Cluster 1 
+
+<p>
+ <img   src="./HW1_CLUSTER_FREQ_G1_GENERAL_AC.JPG">
+</p>
+
+- Cluster 2
+
+<p>
+ <img   src="./HW1_CLUSTER_FREQ_G2_SUSHI_LEARNING.JPG">
+</p>
+
+- Cluster 3
+
+<p>
+ <img   src="./HW1_CLUSTER_FREQ_G3_ZUZA_RELAX.JPG">
+</p>
+
+- Cluster 4
+
+<p>
+ <img   src="./HW1_CLUSTER_FREQ_G4_THAI_YOUTUBE.JPG">
 </p>
