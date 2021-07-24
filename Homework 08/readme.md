@@ -61,9 +61,9 @@ Preb All data with Class Object PrebData
 - XGboost 
 - XGboost with RandomSearch
 
-all combination of data / feature / feature selection / imbalance handle / machine learning -> 180 model from that.
+all combination of data / feature / feature selection / imbalance handle / machine learning -> generate 180 models from all combination.
 
-### <ins> Result & Evaluate </ins>
+### <ins> Result & Evaluate </ins> : Keep only result >= Ground Truth
 
 <p align="center">
  <img  src="./result_mytest.JPG">
