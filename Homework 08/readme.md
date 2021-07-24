@@ -50,6 +50,10 @@ Preb All data with Class Object PrebData
 
 - OverSampling , UnderSampling , Smote
 
+<p align="left">
+ <img  src="./IMBALANCE.JPG">
+</p>
+
 ### <ins> Machine Learning </ins>
 
 - Logistic Regression
