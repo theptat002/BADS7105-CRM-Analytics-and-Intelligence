@@ -20,6 +20,10 @@ Ground truth -> UnderSampling / XGboost / Tune Parameter at Train Accuaracy 74% 
 - last 2 year
 - last 3 year
 
+<p align="center">
+ <img  src="./CUT_YEARS_PERIOD.JPG">
+</p>
+
 ### <ins> Create Feature </ins>
 
 - RFM only
