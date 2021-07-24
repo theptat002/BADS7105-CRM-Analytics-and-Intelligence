@@ -24,7 +24,7 @@ Ground truth -> UnderSampling / XGboost / Tune Parameter at Train Accuaracy 74% 
  <img  src="./CUT_YEARS_PERIOD.JPG">
 </p>
 
-### <ins> Create Feature </ins> : Each datasets create faeture each ways.
+### <ins> Create Feature </ins> : Each dataset type create faeture each ways.
 
 - RFM only
 - RFM + Time 2 Event
@@ -36,7 +36,7 @@ Preb All data with Class Object PrebData
  <img  src="./PREB_DATA_CLASS.JPG">
 </p>
 
-### <ins> Feature selection </ins> : Each datasets use feature selection each approach.
+### <ins> Feature selection </ins> : Each dataset build use feature selection each approach.
 
 - Lasso 
 <url>https://towardsdatascience.com/feature-selection-using-regularisation-a3678b71e499</url>
