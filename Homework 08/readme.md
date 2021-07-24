@@ -20,7 +20,7 @@ Ground truth -> UnderSampling / XGboost / Tune Parameter at Train Accuaracy 74% 
 - last 2 year
 - last 3 year
 
-<p align="center">
+<p align="left">
  <img  src="./CUT_YEARS_PERIOD.JPG">
 </p>
 
@@ -29,6 +29,12 @@ Ground truth -> UnderSampling / XGboost / Tune Parameter at Train Accuaracy 74% 
 - RFM only
 - RFM + Time 2 Event
 - Create new feature also have max 50 features
+
+Preb All data with Class Object PrebData 
+
+<p align="left">
+ <img  src="./PREB_DATA_CLASS.JPG">
+</p>
 
 ### <ins> Feature selection </ins>
 
