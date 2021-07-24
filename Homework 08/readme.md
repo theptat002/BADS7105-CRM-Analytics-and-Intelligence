@@ -24,7 +24,7 @@ Ground truth -> UnderSampling / XGboost / Tune Parameter at Train Accuaracy 74% 
 
 - RFM only
 - RFM + Time 2 Event
-- Create new feature also have 50 features
+- Create new feature also have max 50 features
 
 ### <ins> Feature selection </ins>
 
