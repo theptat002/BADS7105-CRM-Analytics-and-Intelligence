@@ -58,6 +58,6 @@ all combination of data / feature / feature selection / imbalance handle / machi
 The best Model 
 - Data Cut period last 2 years.
 - Use Lasso Feature Selection and Number of features = 29
-- Imbalance Method : "Smoth"
+- Imbalance Method : "Smote"
 - ML : "XGboost"
 - Train Acc : 95.73 % , Test Acc : 88.96 % , Time 2 Build : 629.8 sec. or  10 minutes 30 sec
